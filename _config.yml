@@ -31,8 +31,8 @@ twitter_username: acgt01
 github_username:  cnh
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-hacker
+theme: minima
+#theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
