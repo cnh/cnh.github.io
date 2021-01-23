@@ -18,19 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to Ashish(my pseudonym is tp53)'s homepage on the interwebs
+title: Welcome to ashish(aka @tp53)'s homepage on the interwebs
 email: to defeat bots, username=spiff007 domain=gmail(DOT)com
 description: >- # this means to ignore newlines until "baseurl:"
-  ashish's homepage on the interwebs. Passionate about bioinformatics,healthcare and medicine,
+  ashish(@tp53)'s homepage on the interwebs. Passionate about bioinformatics,healthcare and medicine,
   and applying ml to improve disease diagnostics and treatment, especially cancer
-  and rare diseases. 
+  and rare diseases. Love music, the outdoors(running, cycling) and a self proclaimed nerd
+  about bioinformatics, genomics, ml, cancer, rare diseases and tons of other interests !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: acgt01
 github_username:  cnh
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
